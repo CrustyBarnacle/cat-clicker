@@ -8,12 +8,9 @@ body, html {
 .content {
     color: rgba(173,84,105,.96);
     border: 3px solid white;
-<<<<<<< HEAD
     height: 500px;
     width: 750px;
     flex-direction: row;
-=======
->>>>>>> 49ed074cbab3c7148a9373d4d83178a5a751863d
 }
 
 a {
