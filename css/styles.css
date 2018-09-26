@@ -5,12 +5,24 @@ body, html {
     background: rgba(29,42,52,1);
 }
 
-.content {
-    color: rgba(173,84,105,.96);
+.content_header {
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+main, body {
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(208,84,113,.96);
+}
+
+.main_content {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
     border: 3px solid white;
     height: 95%;
     width: 650px;
-    flex-direction: row;
 }
 
 a {
