@@ -8,8 +8,8 @@ body, html {
 .content {
     color: rgba(173,84,105,.96);
     border: 3px solid white;
-    height: 500px;
-    width: 750px;
+    height: 95%;
+    width: 650px;
     flex-direction: row;
 }
 
