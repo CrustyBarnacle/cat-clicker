@@ -1,5 +1,6 @@
 body, html {
-    height: 100%;
+    height: 95%;
+    width: 99%;
     margin: 5px;
     text-align: center;
     background: rgba(29,42,52,1);
@@ -18,11 +19,12 @@ main, body {
 .main_content {
     margin: 0 auto;
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     justify-content: space-around;
+    flex-flow: row;
     border: 3px solid white;
     height: 95%;
-    width: 650px;
+    width: auto;
 }
 
 a {
