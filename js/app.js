@@ -1,6 +1,6 @@
 // Let's make this cat clickable!
 
-let cat_elem = document.getElementById('catPicture');
+let cat_elem = document.getElementById('catPicture0');
 let clicks = 0;
 
 // Listen for clicks on cat picture
