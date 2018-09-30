@@ -28,5 +28,6 @@ main, body {
 }
 
 a {
-    color: rgba(60,130,236,1);
+    /* color: rgba(60,130,236,1); */
+    color: rgba(29,42,52,1);
 }
